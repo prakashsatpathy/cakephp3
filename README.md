@@ -1,3 +1,4 @@
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://api.travis-ci.org/cakephp/app.png)](https://travis-ci.org/cakephp/app)
